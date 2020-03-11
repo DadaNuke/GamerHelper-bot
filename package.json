@@ -1,0 +1,15 @@
+
+  "name": "discordbotreplay",
+  "version": "1.0.3",
+  "description": "My first bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snowy JD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+    "request": "2.81.0"
+  }
+}
